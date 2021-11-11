@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "assessment",
+		"_postman_id": "852f950e-ea4b-6e51-353d-70ac7c0fc4ac",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "update-profile",
+			"request": {
+				"url": "",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
